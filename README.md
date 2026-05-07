@@ -1,44 +1,54 @@
 # Laith Takriti 
+# About Me
 
+I am currently working through my 2 A lavals, graphics and computer science. 
+I am an ambitious, resilient, and hardworking individual who consistently strives to achieve the best results in everything I do. 
+I am passionate about building a successful future where I can make a positive impact on others and contribute meaningfully to society.
 
-I'm a student at BHASVIC studying A-Level Computer Science, Graphics design and Btec Law  
+# Professional Goals
 
+My long-term professional goal is to pursue a career in law and politics.
+I aspire to become a respected figure in politics or work towards becoming a judge, where I can help people, support fairness, and make a difference within society.
 
-## Professional Goals
+# Career Interests
 
-I'm interested in going into poltics.
-I enjoy working on communication and computer science 
+At the moment, I am still exploring different companies, 
+roles, and sectors that align with my ambitions. My main focus is to complete university and continue progressing towards a fulfilling career that allows me to help and support others. During university 
 
-## What I'm Working On
+# Current Studies and Projects
 
-- A-level Computer coursework project  called **PocketDeen** (an Islamic productivity app) 
-- A-Level Graphics coursework project based on the Human body and growth.
+I am currently studying my A Levels, with a focus on Graphics and Computer Science. 
+Through these subjects, I am developing both creative and technical skills, as well as improving my problem-solving abilities and discipline.
 
+I just finnihed my alevel Computer Science projectm this porject was called *PocketDeen* to help muslims stay focused on their religion.
+Sadly, I get didnt get to finnish it.
 
+Through this project I learnt how to code in JavaScript, CSS and HTML.
 
-## Qualifications
+Take a look at the project: https://github.com/BHASVIC-laithtakriti24/PocketDeen-CS-project
 
-GCSE's: Maths, English literature, Three sciences and Computer science.
-BTEC  : btec Law  level 1.
-
-
-## Soft Skills
-
-- Strong communication: writing up projects and explaining code
-- Teamwork: group project experience in class
-- Time management: balancing college work and side projects
-- Problem solving: debugging, testing, and refining ideas
-
-
-
-## Featured Repositories
-
-Here are a few of my projects:
+to look at past projects during my time at the computer Science course:
 
 https://github.com/BHASVIC-laithtakriti24?tab=repositories
 
-https://github.com/orgs/BHASVIC-CompSci/repositories
+# Qualifications and Certifications
 
----
+I currently have 5 GCSE's inculding Computer Science, Maths and Physics.
+I currently just finnished with my A level Graphics and communication.
+
+
+# Skills and Strengths
+
+* Strong communication skills
+* Teamwork and collaboration
+* Resilience and determination
+* Hardworking and motivated mindset
+* Problem-solving skills
+* Willingness to learn and improve continuously
+* Ability to stay focused and committed to goals
+
+# Get in touch
+
+**Email** = Laithtakriti@gmail.com
 
 Thanks for checking out my GitHub!
